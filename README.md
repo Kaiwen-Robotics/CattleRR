@@ -1,6 +1,5 @@
 # Non-contact respiration rate measurement of multiple cows in a free-stall barn using computer vision methods
 
-## Coming Soon (After Paper Acceptted)
 link to the paper: [Non-contact respiration rate measurement of multiple cows in a free-stall barn using computer vision methods](https://www.sciencedirect.com/science/article/pii/S0168169924000693?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=209028132&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM447105&utm_medium=email&utm_source=AC_)
 
 ```
